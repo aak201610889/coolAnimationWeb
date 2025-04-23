@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+  justify-content: center; /* Updated this line */
+  align-items: center; /* Add this for vertical centering if needed */
+  gap: 20px; /* Adds space between .product and .selected */
+}
+
+.selected {
+  width: 30vw;
+  min-width: 300px; /* Ensures the .selected doesn't become too narrow */
+}
+
+.product {
+  width: 70vw;
+  min-width: 300px; /* Ensures the .product doesn't become too narrow */
+}
