@@ -43,9 +43,9 @@ useGSAP(
       >
         <h2
           className="font-general text-sm uppercase 
-    md:text-[10px]"
+    md:text-[10px]  "
         >
-          Welcome to Zentry
+          Welcome to gameo
         </h2>
         <div
           className="mt-5 text-center text-4xl uppercase 

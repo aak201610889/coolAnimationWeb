@@ -10,11 +10,11 @@ function Features() {
     <div className=" lg:w-[80%] w-[100%]  m-auto">
       <div className="container mx-auto px-3 md:px-10 mb-12">
         <div className="px-5 py-10">
-          <p className="font-circular-web text-lg text-blue-50">
+          <p className="font-circular-web text-lg text-blue-50 text-center">
             Info theMetagame Layer
           </p>
         </div>
-        <p className=" max-w-md font-circular-web text-lg text-blue-50 opacity-50">
+        <p className=" max-w-md font-circular-web text-lg text-blue-50 opacity-50 text-center mx-auto">
           Immerse yourself in a rich and ever-expanding universe where a vibrate
           array of products converge into a interconnected overlay experience on
           your world.
